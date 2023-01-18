@@ -16,3 +16,6 @@ This repository contains the source code for the Semantic Data Curation for heal
 `python main.py`
 
 ## License
+
+
+This work is submitted to a **Connection Science Taylor and Francsis Jouranl** and is currenty under review. 
